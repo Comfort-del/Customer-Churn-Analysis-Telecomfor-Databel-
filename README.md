@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis-Telecom-Databel ( Interactive Dashboard using Power BI)
 ##  Project Objective 
-This project aims to calculate the customer churn rate for Databel Telecom. Identify patterns and reasons behind customer churn.
+This project aims to calculate Databel Telecom's customer churn rate and identify patterns and reasons behind it.
 Utilize data visualization to present findings.
 Provide recommendations to improve customer retention. 
 ## Questions (KPIs)
@@ -10,7 +10,7 @@ Provide recommendations to improve customer retention.
 - What products/services are most associated with churned customers?
 
   
--  Dashboard Interaction
+-  Dashboard Interaction ca href = https://github.com/Comfort-del/Customer-Churn-Analysis-Telecomfor-Databel-/blob/main/Dababel%20Customer%20churn.pbix > View Dashboard</as
   ## Process 
   - Verify the data for any duplicate and missing values.
   - Created DAX measures to aid in the analysis.
