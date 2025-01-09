@@ -10,7 +10,7 @@ Provide recommendations to improve customer retention.
 - What products/services are most associated with churned customers?
 
   
--  Dashboard Interaction ca href = https://github.com/Comfort-del/Customer-Churn-Analysis-Telecomfor-Databel-/blob/main/Dababel%20Customer%20churn.pbix > View Dashboard</as
+-  Dashboard Interaction <a href="https://github.com/Comfort-del/Customer-Churn-Analysis-Telecomfor-Databel-/blob/main/Dababel%20Customer%20churn.pbix">View Dashboard</a>
   ## Process 
   - Verify the data for any duplicate and missing values.
   - Created DAX measures to aid in the analysis.
