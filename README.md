@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-Telecomfor-Databel ( Interactive Dashboard using Power BI)
+# Customer-Churn-Analysis-Telecom-Databel ( Interactive Dashboard using Power BI)
 ##  Project Objective 
 This project aims to calculate the customer churn rate for Databel Telecom. Identify patterns and reasons behind customer churn.
 Utilize data visualization to present findings.
